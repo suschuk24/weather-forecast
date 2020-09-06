@@ -3,6 +3,10 @@
     font-family: 'Grandstander';
   }
 
+  nav {
+    font-weight: bolder;
+  }
+
 body {
     margin: 0;
     padding: 0;
