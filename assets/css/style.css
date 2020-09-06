@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-size: 16px;
+  }
+
+h2 {
+  font-weight: bold;
+}
+
+span{
+  font-size: 0.8em;
+}
+
+  .container {
+      padding: 1rem;
+  }
+
+  /* Unordered list styles for saved history cities */
+li {
+  border: solid 2px rgb(28, 138, 248);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  list-style: none ; 
+  text-align: center;
+}
+li:hover{
+  background-color: rgb(28, 138, 248);
+  font-weight: bolder;
+}
+/* UV Index Styles */
+.favorable {
+  background-color: #77dd77;
+  color: #000000
+}
+.moderate {
+  background-color: #faac54;
+  color: #000000;
+}
+
+.severe {
+  background-color: #ff6961;
+  color: #000000
+}
+
