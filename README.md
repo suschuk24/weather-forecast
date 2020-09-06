@@ -25,3 +25,4 @@ This is a simple weather forecast aplication using the OpenWeather API. Search f
 * Bootstrap
 * Moment.js
 * OpenWeather API
+*Open-Iconic API
